@@ -1,1 +1,2 @@
-/Users/danielreeder/thermocouple-data-1/.venv
+.venv
+.venv/*
